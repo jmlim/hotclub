@@ -5,8 +5,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<jsp:include page="fragments/headTag.jsp" />
 </head>
 <body>
 
+<jsp:include page="fragments/footer.jsp" />
 </body>
 </html>
