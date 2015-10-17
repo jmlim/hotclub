@@ -26,8 +26,6 @@ public class Article {
 	// 공통으로 사용할 객체
 	private List<Image> attachImages;
 
-	private List<Member> likeMembers;
-
 	private Date createdDate;
 
 	private Date updatedDate;

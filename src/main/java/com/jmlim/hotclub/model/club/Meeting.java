@@ -22,5 +22,4 @@ public class Meeting {
 	private Club parent;
 
 	private List<Member> attachMembers;
-
 }

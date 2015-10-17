@@ -15,15 +15,20 @@ public class Club {
 	private Image mainImage;
 
 	private String notice;
-	
+
 	private Desktop parent;
 
-	/*private List<String> area;
+	/*
+	 * private List<String> area;
+	 * 
+	 * private List<Meeting> meetings;
+	 * 
+	 * private List<Menu> menus;
+	 */
 
-	private List<Meeting> meetings;
-
-	private List<Menu> menus;
-*/
+	/*
+	 * 이거 관련하여 테이블 하나 필요.
+	 **/
 	private List<Member> joiningMembers;
 
 	private Date createdDate;
